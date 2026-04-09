@@ -40,3 +40,6 @@ Thumbs.db
 #####################
 # These files are used for testing and should not be included in the repository
 .temp/**
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
